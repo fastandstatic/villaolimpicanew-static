@@ -37,4 +37,191 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="widget-nav-menu-css" href="/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1739393570" media="all">
 <link rel="stylesheet" id="widget-heading-css" href="/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.27.3" media="all">
 <link rel="stylesheet" id="widget-text-editor-css" href="/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.27.3" media="all">
-<link rel
+<link rel="stylesheet" id="widget-icon-list-css" href="/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="widget-social-icons-css" href="/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="e-apple-webkit-css" href="/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="widget-form-css" href="/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="e-animation-bounceIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="e-animation-fadeIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="e-popup-css" href="/wp-content/plugins/pro-elements/assets/css/conditionals/popup.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="jet-tabs-frontend-css" href="/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.7" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="widget-image-box-css" href="/wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="elementor-post-1865-css" href="/wp-content/uploads/elementor/css/post-1865.css?ver=1739394133" media="all">
+<link rel="stylesheet" id="elementor-post-1486-css" href="/wp-content/uploads/elementor/css/post-1486.css?ver=1739393571" media="all">
+<link rel="stylesheet" id="elementor-post-1647-css" href="/wp-content/uploads/elementor/css/post-1647.css?ver=1739393571" media="all">
+<link rel="stylesheet" id="elementor-post-549-css" href="/wp-content/uploads/elementor/css/post-549.css?ver=1739393571" media="all">
+<link rel="stylesheet" id="hello-elementor-child-style-css" href="/wp-content/themes/hello-theme-child-master/style.css?ver=2.0.0" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=DM+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDM+Mono%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.7.2" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.27.3" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/1865">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.2">
+<link rel="canonical" href="/contacto/">
+<link rel="shortlink" href="/?p=1865">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fcontacto%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fcontacto%2F#038;format=xml">
+<meta name="generator" content="Elementor 3.27.3; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<!-- Link Swiper's CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<!-- <meta name="theme-color" content="#FF6900" /> -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETL8GT1GTH"></script>
+<script>window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ETL8GT1GTH');</script>
+
+<script>jQuery(document).ready(function($) {
+        // Obtener el nombre de la página desde la URL
+        var path = window.location.pathname; // Esto devuelve la ruta, por ejemplo, "/nombre-de-la-pagina/"
+    		var pageName = path === '/' ? 'home' : path.split('/').filter(function(el) { return el.length !== 0; }).pop(); // Capturar el último segmento o 'home' si es index
+    		console.log("Page name:", pageName);
+
+        // Reemplazar caracteres no válidos para nombres de clases CSS (si es necesario)
+        var pageClass = pageName.replace(/[^a-z0-9\-]/gi, '-').toLowerCase(); // Convierte el nombre en una clase CSS válida
+        console.log("Page class name:", "page-"+pageClass);
+
+        // Agregar la clase al body
+        if (pageClass.length > 0) {  // Asegurarse de que haya un nombre de página
+            $('body').addClass('page-' + pageClass); // Agregar clase dinámica al body
+        }
+
+        // Función para actualizar el logo según el scroll y la clase del body
+        function updateLogo() {
+            if ($('body').hasClass('noticias-template-default') || $('body').hasClass('page-plan-referidos') || $('body').hasClass('page-pqrs' ) ) {
+                $("#logo_header .elementor-widget-container img").attr("src", "/wp-content/uploads/2025/01/Group-14742.svg");
+            } else {
+                if ($(window).scrollTop() > 20) {
+                    $("#logo_header .elementor-widget-container img").attr("src", "/wp-content/uploads/2025/01/Group-14742.svg");
+                } else {
+                    $("#logo_header .elementor-widget-container img").attr("src", "/wp-content/uploads/2025/01/Logo_villa.svg");
+                }
+            }
+        }
+
+        // Función para actualizar el sticky del header según el scroll
+        function updateStickyHeader() {
+            if ($(window).scrollTop() > 20) {
+                $("#head").addClass('sticky');
+            } else {
+                $("#head").removeClass('sticky');
+            }
+        }
+			
+				function updateStickyHeaderMovil() {
+            if ($(window).scrollTop() > 20) {
+                $("#headmovil").addClass('sticky');
+            } else {
+                $("#headmovil").removeClass('sticky');
+            }
+        }
+
+        // Primero agregar la clase al body, luego ejecutar las demás funciones
+        updateLogo();  // Actualizar el logo inmediatamente al cargar
+        updateStickyHeader();  // Actualizar el sticky header inmediatamente al cargar
+				updateStickyHeaderMovil();
+			
+        // Ejecutar las funciones al hacer scroll
+        $(window).scroll(function () {
+            updateStickyHeader(); 
+						updateStickyHeaderMovil(); // Controlar el sticky del header al hacer scroll
+            updateLogo();  // Controlar el cambio del logo al hacer scroll
+        });
+    });</script>
+
+<style>::-webkit-scrollbar {
+			-webkit-appearance: none;
+			width: 7px;
+	}
+	::-webkit-scrollbar {
+			-webkit-appearance: none;
+			width: 7px;
+	}
+	::-webkit-scrollbar-thumb {
+			border-radius: 4px;
+			background-color: rgba(0, 0, 0, 0.5);
+			-webkit-box-shadow: 0 0 1px rgba(255,255,255,0.5);
+	}
+	::-webkit-scrollbar-thumb {
+			border-radius: 4px;
+			background-color: rgba(0, 0, 0, 0.5);
+			-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.5);
+	}
+	
+	input, textarea {
+			touch-action: manipulation;
+	}
+	
+	body .elementor-location-header {
+			position: relative;
+			z-index: 999;
+			width: 100%;
+	}
+
+	@media (max-width: 768px) {
+			input[type="text"],
+			input[type="email"],
+			input[type="tel"],
+			textarea {
+					height: auto;    
+					max-width: 100%; 
+			}
+	}</style>
+			<style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}</style>
+			<link rel="icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-32x32.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2025/02/cropped-Group-14745-2-270x270.png">
+</head>
+<body class="page-template-default page page-id-1865 wp-embed-responsive theme-default elementor-default elementor-kit-5 elementor-page elementor-page-1865">
+
+
+<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+
+		<div data-elementor-type="header" data-elementor-id="1486" class="elementor elementor-1486 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-aceb258 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="aceb258" data-element_type="container" id="head" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-95c9e23 e-con-full e-flex e-con e-child" data-id="95c9e23" data-element_type="container">
+		<div class="elementor-element elementor-element-d791ffd e-con-full e-flex e-con e-child" data-id="d791ffd" data-element_type="container">
+				<div class="elementor-element elementor-element-4074940 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="4074940" data-element_type="widget" id="logo_header" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/">
+							<img width="141" height="46" src="/wp-content/uploads/2025/01/Logo_villa.svg" class="attachment-large size-large wp-image-1497" alt="">								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ad09f07 e-con-full e-flex e-con e-child" data-id="ad09f07" data-element_type="container">
+				<div class="elementor-element elementor-element-4f22ad4 elementor-nav-menu--dropdown-none elementor-nav-menu__align-end elementor-widget elementor-widget-nav-menu" data-id="4f22ad4" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-text e--animation-none">
+				<ul id="menu-1-4f22ad4" class="elementor-nav-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2255"><a href="/nos

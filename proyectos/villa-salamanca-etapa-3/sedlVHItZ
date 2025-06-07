@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Villa Salamanca &#8211; Etapa 3 &#8211; Villa Olimpica</title>
+<meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; Feed" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; Feed de los comentarios" href="/comments/feed/">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"🏳️‍⚧️","🏳️​⚧️")?!1:!n(e,"🇺🇳","🇺​🇳")&&!n(e,"🏴󠁧󠁢󠁥󠁮󠁧󠁿","🏴​󠁧​󠁢​󠁥​󠁮​󠁧​󠁿");case"emoji":return!n(e,"🐦‍⬛","🐦​⬛")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}</style>
+<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2" media="all">
+<link rel="stylesheet" id="jet-engine-frontend-css" href="/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.6.4.1" media="all">
+<style id="global-styles-inline-css">:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}</style>
+<link rel="stylesheet" id="hello-elementor-css" href="/wp-content/themes/hello-elementor/style.min.css?ver=3.3.0" media="all">
+<link rel="stylesheet" id="hello-elementor-theme-style-css" href="/wp-content/themes/hello-elementor/theme.min.css?ver=3.3.0" media="all">
+<link rel="stylesheet" id="hello-elementor-header-footer-css" href="/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.3.0" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="elementor-post-5-css" href="/wp-content/uploads/elementor/css/post-5.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="widget-image-css" href="/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="widget-nav-menu-css" href="/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="widget-heading-css" href="/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="widget-text-editor-css" href="/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="widget-icon-list-css" href="/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="widget-social-icons-css" href="/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="e-apple-webkit-css" href="/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="swiper-css" href="/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all">
+<link rel="stylesheet" id="e-swiper-css" href="/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="widget-image-carousel-css" href="/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="widget-google_maps-css" href="/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="widget-form-css" href="/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="widget-image-box-css" href="/wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1739393570" media="all">
+<link rel="stylesheet" id="e-animation-bounceIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="e-animation-fadeIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="e-popup-css" href="/wp-content/plugins/pro-elements/assets/css/conditionals/popup.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="jet-tabs-frontend-css" href="/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.7" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="elementor-post-1486-css" href="/wp-content/uploads/elementor/css/post-1486.css?ver=1739393571" media="all">
+<link rel="stylesheet" id="elementor-post-1647-css" href="/wp-content/uploads/elementor/css/post-1647.css?ver=1739393571" media="all">
+<link rel="stylesheet" id="elementor-post-1916-css" href="/wp-content/uploads/elementor/css/post-1916.css?ver=1739394136" media="all">
+<link rel="stylesheet" id="elementor-post-549-css" href="/wp-content/uploads/elementor/css/post-549.css?ver=1739393571" media="all">
+<link rel="stylesheet" id="hello-elementor-child-style-css" href="/wp-content/themes/hello-theme-child-master/style.css?ver=2.0.0" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=DM+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDM+Mono%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.7.2" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.27.3" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/proyectos/2763">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.2">
+<link rel="canonical" href="/proyectos/villa-salamanca-etapa-3/">
+<link rel="shortlink" href="/?p=2763">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fproyectos%2Fvilla-salamanca-etapa-3%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fproyectos%2Fvilla-salamanca-etapa-3%2F#038;format=xml">
+<meta name="generator" content="Elementor 3.27.3; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<!-- Link Swiper's CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<!-- <meta name="theme-color" content="#FF6900" /> -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETL8GT1GTH"></script>
+<script>window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ETL8GT1GTH');</script>
+
+<script>jQuery(document).ready(function($) {
+        // Obtener el nombre de la página desde la URL
+        var path = window.location.pathname; // Esto devuelve la ruta, por ejemplo, "/nombre-de-la-pagina/"
+    		var pageName = path === '/' ? 'home' : path.split('/').filter(function(el) { return el.length !== 0; }).pop(); // Capturar el último segmento o 'home' si es index
+    		console.log("Page name:", pageName);
+
+        // Reemplazar caracteres no válidos para nombres de clases CSS (si es necesario)
+        var pageClass = pageName.replace(/[^a-z0-9\-]/gi, '-').toLowerCase(); // Convierte el nombre en una clase CSS válida
+        console.log("Page class name:", "page-"+pageClass);
+
+        // Agregar la clase al body
+        if (pageClass.length > 0) {  // Asegurarse de que haya un nombre de página
+            $('body').addClass('page-' + pageClass); // Agregar clase dinámica al body
+        }
+
+        // Función para actualizar el logo según el scroll y la clase del body
+        function updateLogo() {
+            if ($('body').hasClass('noticias-template-default') || $('body').hasClass('page-plan-referidos') || $('body').hasClass('page-pqrs' ) ) {
+                $("#logo_header .elementor-widget-container img").attr("src", "/wp-content/uploads/2025/01/Group-14742.svg");
+            } else {
+                if ($(window).scrollTop() > 20) {
+                    $("#logo_header .elementor-widget-container img").attr("src", "/wp-content/uploads/2025/01/Group-14742.svg");
+                } else {
+                    $("#logo_header .elementor-widget-container img").attr("src", "/wp-content/uploads/2025/01/Logo_villa.svg");
+                }
+            }
+        }
+
+        // Función para actualizar el sticky del header según el scroll
+        function updateStickyHeader() {
+            if ($(window).scrollTop() > 20) {
+                $("#head").addClass('sticky');
+            } else {
+                $("#head").removeClass('sticky');
+            }
+        }
+			
+				function updateStickyHeaderMovil() {
+            if ($(window).scrollTop() > 20) {
+                $("#headmovil").addClass('sticky');
+            } else {
+                $("#headmovil").removeClass('sticky');
+            }
+        }
+
+        // Primero agregar la clase al body, luego ejecutar las demás funciones
+        updateLogo();  // Actualizar el logo inmediatamente al cargar
+        updateStickyHeader();  // Actualizar el sticky header inmediatamente al cargar
+				updateStickyHeaderMovil();
+			
+        // Ejecutar las funciones al hacer scroll
+        $(window).scroll(function () {
+            updateStickyHeader(); 
+						updateStickyHeaderMovil(); // Controlar el sticky del header al hacer scroll
+            updateLogo();  // Controlar el cambio del logo al hacer scroll
+        });
+    });</script>
+
+<style>::-webkit-scrollbar {
+			-webkit-appearance: none;
+			width: 7px;
+	}
+	::-webkit-scrollbar {
+			-webkit-appearance: none;
+			width: 7px;
+	}
+	::-webkit-scrollbar-thumb {
+			border-radius: 4px;
+			background-color: rgba(0, 0, 0, 0.5);
+			-webkit-box-shadow: 0 0 1px rgba(255,255,255,0.5);
+	}
+	::-webkit-scrollbar-thumb {
+			border-radius: 4px;
+			background-color: rgba(0, 0, 0, 0.5);
+			-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.5);
+	}
+	
+	input, textarea {
+			touch-action: manipulation;
+	}
+	
+	body .elementor-location-header {
+			position: relative;
+			z-index: 999;
+			width: 100%;
+	}
+
+	@media (max-width: 768px) {
+			input[type="text"],
+			input[type="email"],
+			input[type="tel"],
+			textarea {
+					height: auto;    
+					max-width: 100%; 
+			}
+	}</style>
+			<style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}</style>
+			<link rel="icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-32x32.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-180x180.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2025/02/cropped-Group-14745-2-270x270.png">
+</head>
+<body class="proyectos-template-default single single-proyectos postid-2763 wp-embed-responsive theme-default elementor-default elementor-kit-5 elementor-page-1916">
+
+
+<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+
+		<div data-elementor-type="header" data-elementor-id="1486" class="elementor elementor-1486 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-aceb258 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="aceb258" data-element_type="container" id="head" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-95c9e23 e-con-full e-flex e-con e-child" data-id="95c9e23" data-element_type="container">
+		<div class="elementor-element elementor-element-d791ffd e-con-full e-flex e-con e-child" data-id="d791ffd" data-element_type="container">
+				<div class="elementor-element elementor-element-4074940 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="4074940" data-element_type="widget" id="logo_header" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/">
+							<img width="141" height="46" src="/wp-content/uploads/2025/01/Logo_villa.svg" class="attachment-large size-large wp-image-1497" alt="">								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ad09f07 e-con-full e-flex e-con e-child" data-id="ad09f07" data-element_type="container">
+				<div class="elementor-element elementor-element-4f22ad4 elementor-nav-menu--dropdown-none elementor-nav-menu__align-end elementor-widget elementor-widget-nav-menu" data-id="4f22ad4" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-text e--animation-none">
+				<ul id="menu-1-4f22ad4" class="elementor-nav-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2255"><a href="/nosotros/" class="elementor-item">Nosotros</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1672"><a href="/proyectos" class="elementor-item">Proyectos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2297"><a href="/avances-de-obra/" class="elementor-item">Avances de obra</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2207"><a href="/requisitos/" class="elementor-item">Requisitos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="/beneficios/" class="elementor-item">Beneficios</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2208"><a href="/contacto/" class="elementor-item">Contacto</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-4f22ad4" class="elementor-nav-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2255"><a href="/nosotros/" class="elementor-item" tabindex="-1">Nosotros</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1672"><a href="/proyectos" class="elementor-item" tabindex="-1">Proyectos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2297"><a href="/avances-de-obra/" class="elementor-item" tabindex="-1">Avances de obra</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2207"><a href="/requisitos/" class="elementor-item" tabindex="-1">Requisitos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="/beneficios/" class="elementor-item" tabindex="-1">Beneficios</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2208"><a href="/contacto/" class="elementor-item" tabindex="-1">Contacto</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3dbe9bb e-con-full e-flex e-con e-child" data-id="3dbe9bb" data-element_type="container">
+				<div class="elementor-element elementor-element-5fee3a5 elementor-align-right elementor-widget elementor-widget-button" data-id="5fee3a5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://tu360.grupobancolombia.com/inmobiliario/pagos-en-linea/pagar-cuota-inicial" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Pagos en línea</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d159e36 e-con-full e-flex e-con e-child" data-id="d159e36" data-element_type="container">
+				<div class="elementor-element elementor-element-d2a1f0b elementor-widget elementor-widget-html" data-id="d2a1f0b" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ffc33ea elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop e-flex e-con-boxed e-con e-parent" data-id="ffc33ea" data-element_type="container" id="headmovil">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c1b92e8 e-con-full e-flex e-con e-child" data-id="c1b92e8" data-element_type="container">
+		<div class="elementor-element elementor-element-7978a88 e-con-full e-flex e-con e-child" data-id="7978a88" data-element_type="container">
+				<div class="elementor-element elementor-element-d33650d elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="d33650d" data-element_type="widget" id="logo_header" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/">
+							<img width="141" height="46" src="/wp-content/uploads/2025/01/Logo_villa.svg" class="attachment-large size-large wp-image-1497" alt="">								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c81798c e-con-full e-flex e-con e-child" data-id="c81798c" data-element_type="container">
+				<div class="elementor-element elementor-element-2bc1095 elementor-align-right elementor-widget elementor-widget-button" data-id="2bc1095" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://tu360.grupobancolombia.com/inmobiliario/pagos-en-linea/pagar-cuota-inicial" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Pagos en línea</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-e902e5e elementor-mobile-align-right  button_style elementor-tablet-align-right elementor-widget elementor-widget-button" data-id="e902e5e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-size-sm" role="button" id="button2763">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" width="38" height="24" viewbox="0 0 38 24"><g id="Group_14764" data-name="Group 14764" transform="translate(-321.5 -30.5)"><line id="Line_8" data-name="Line 8" x2="34" transform="translate(323.5 32.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"></line><line id="Line_9" data-name="Line 9" x2="25" transform="translate(332.5 42.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"></line><line id="Line_10" data-name="Line 10" x2="34" transform="translate(323.5 52.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"></line></g></svg>			</span>
+								</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5a84c0f elementor-widget elementor-widget-html" data-id="5a84c0f" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<style>.container {
+        display: none;
+    }
+    
+    .button_style {
+        pointer-events: auto;
+        cursor: pointer; 
+    }</style>
+
+<script>document.addEventListener('DOMContentLoaded', function () {
+    function attachShowBioEventListeners() {
+        // Select all buttons that have an ID starting with 'button'
+        const buttons = document.querySelectorAll('[id^=button]');
+        
+        // Add event listeners to each button
+        buttons.forEach(button => {
+            button.removeEventListener('click', handleShowBioClick); // Remove any existing listeners to avoid duplicates
+            button.addEventListener('click', handleShowBioClick);
+        });
+
+        // Add event listener to each close icon
+        document.querySelectorAll('.close-icon').forEach(icon => {
+            icon.removeEventListener('click', handleCloseIconClick); // Remove any existing listeners to avoid duplicates
+            icon.addEventListener('click', handleCloseIconClick);
+        });
+        
+        // Add event listener to close container when clicking outside of it
+        document.addEventListener('click', handleOutsideClick);
+    }
+
+    function handleShowBioClick(event) {
+        event.stopPropagation(); // Prevent the event from propagating to the document
+        const button = event.currentTarget;
+        const postID = button.id.replace('button', ''); // Extract the post ID from the button ID
+        const containerID = 'container' + postID; // Construct the container ID
+
+        // Hide all containers
+        document.querySelectorAll('.container').forEach(container => {
+            container.style.display = 'none';
+        });
+
+        // Show the specific container related to the clicked button
+        const containerToShow = document.getElementById(containerID);
+        if (containerToShow) {
+            containerToShow.style.display = 'block';
+        }
+    }
+
+    function handleCloseIconClick() {
+        // Hide all containers when a close icon is clicked
+        document.querySelectorAll('.container').forEach(container => {
+            container.style.display = 'none';
+        });
+    }
+    
+    function handleOutsideClick(event) {
+        // Check if the clicked element is outside any container
+        const isOutside = !event.target.closest('.popup-detalles') && !event.target.closest('[id^=button]');
+        if (isOutside) {
+            document.querySelectorAll('.container').forEach(container => {
+                container.style.display = 'none';
+            });
+        }
+    }
+
+    // Initial attachment of event listeners
+    attachShowBioEventListeners();
+
+    // Reattach event listeners after the filter is applied
+    document.querySelectorAll('.e-filter-item').forEach(filterButton => {
+        filterButton.addEventListener('click', function () {
+            setTimeout(attachShowBioEventListeners, 500); // Wait a bit for the DOM to update
+        });
+    });
+});</script>
+
+<style>@media only screen and (max-width: 768px) {
+      .e-n-tabs-heading.e-n-tabs-heading.e-n-tabs-heading.e-n-tabs-heading {
+            justify-content: space-around !important;
+        }
+        
+    }</style>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-301d6fe e-con-full container e-flex e-con e-parent" data-id="301d6fe" data-element_type="container" id="container2763" data-settings="{&quot;position&quot;:&quot;fixed&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-30fce46 e-con-full e-flex e-con e-child" data-id="30fce46" data-element_type="container" data-settings="{&quot;position&quot;:&quot;absolute&quot;}">
+		<div class="elementor-element elementor-element-79c547f popup-detalles e-flex e-con-boxed e-con e-child" data-id="79c547f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-1384891 e-con-full e-flex e-con e-child" data-id="1384891" data-element_type="container">
+				<div class="elementor-element elementor-element-bba9b3e elementor-absolute close-icon elementor-view-default elementor-widget elementor-widget-icon" data-id="bba9b3e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="27.65" height="25.65" viewbox="0 0 27.65 25.65"><g id="Group_14764" data-name="Group 14764" transform="translate(-320.675 -29.675)"><line id="Line_8" data-name="Line 8" x2="22" y2="20" transform="translate(323.5 32.5)" fill="none" stroke="#061973" stroke-linecap="round" stroke-width="4"></line><line id="Line_10" data-name="Line 10" y1="20" x2="22" transform="translate(323.5 32.5)" fill="none" stroke="#061973" stroke-linecap="round" stroke-width="4"></line></g></svg>			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c08eecb e-con-full e-flex e-con e-child" data-id="c08eecb" data-element_type="container">
+				<div class="elementor-element elementor-element-5dfb973 elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="5dfb973" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="141" height="46" src="/wp-content/uploads/2025/01/Group-14742.svg" class="attachment-large size-large wp-image-1783" alt="">															</div>
+				</div>
+				<div class="elementor-element elementor-element-4e84116 elementor-align-right elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="4e84116" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://tu360.grupobancolombia.com/inmobiliario/pagos-en-linea/pagar-cuota-inicial" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Pagos en línea</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8d026ad elementor-widget elementor-widget-nav-menu" data-id="8d026ad" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-angle-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-8d026ad" class="elementor-nav-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2255"><a href="/nosotros/" class="elementor-item" tabindex="-1">Nosotros</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1672"><a href="/proyectos" class="elementor-item" tabindex="-1">Proyectos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2297"><a href="/avances-de-obra/" class="elementor-item" tabindex="-1">Avances de obra</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2207"><a href="/requisitos/" class="elementor-item" tabindex="-1">Requisitos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2206"><a href="/beneficios/" class="elementor-item" tabindex="-1">Beneficios</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2208"><a href="/contacto/" class="elementor-item" tabindex="-1">Contacto</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div data-elementor-type="single-post" data-elementor-id="1916" class="elementor elementor-1916 elementor-location-single post-2763 proyectos type-proyectos status-publish has-post-thumbnail hentry categoria-proyectos-entrega-inmediata" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-0273117 e-flex e-con-boxed e-con e-parent" data-id="0273117" data-element_type="container" id="back-proyect">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b7ccd50 e-flex e-con-boxed e-con e-parent" data-id="b7ccd50" data-element_type="container" id="section_proyect_2">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-65a1dc4 e-con-full e-flex e-con e-child" data-id="65a1dc4" data-element_type="container">
+		<div class="elementor-element elementor-element-e322ace e-con-full e-flex e-con e-child" data-id="e322ace" data-element_type="container">
+		<div class="elementor-element elementor-element-d72d52d e-con-full e-flex e-con e-child" data-id="d72d52d" data-element_type="container">
+				<div class="elementor-element elementor-element-24b66a9 elementor-pagination-position-inside elementor-widget elementor-widget-image-carousel" data-id="24b66a9" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Carrusel de imágenes" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 de 1"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2025/01/EXT-PART-1.1.jpg" alt="EXT PART 1.1"></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ba4001f e-con-full e-flex e-con e-child" data-id="ba4001f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-d7920d0 e-con-full e-flex e-con e-child" data-id="d7920d0" data-element_type="container">
+		<div class="elementor-element elementor-element-861d4e9 e-con-full e-flex e-con e-child" data-id="861d4e9" data-element_type="container">
+		<div class="elementor-element elementor-element-9810a84 e-con-full e-flex e-con e-child" data-id="9810a84" data-element_type="container">
+				<div class="elementor-element elementor-element-17938ed elementor-widget elementor-widget-image" data-id="17938ed" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="78" height="78" src="/wp-content/uploads/2025/01/Group-14697.svg" class="attachment-large size-large wp-image-1925" alt="">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-58d9657 e-con-full e-flex e-con e-child" data-id="58d9657" data-element_type="container">
+				<div class="elementor-element elementor-element-cee6c29 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="cee6c29" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Villa Salamanca &#8211; Etapa 3</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-7b2ae84 e-con-full e-flex e-con e-child" data-id="7b2ae84" data-element_type="container">
+				<div class="elementor-element elementor-element-7fdae7e elementor-widget elementor-widget-heading" data-id="7fdae7e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">ETAPA 4</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-dbcf629 elementor-widget elementor-widget-heading" data-id="dbcf629" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="#">¿Cómo llegar?</a></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e4b8406 e-con-full e-flex e-con e-child" data-id="e4b8406" data-element_type="container">
+				<div class="elementor-element elementor-element-f4b7d5e elementor-view-default elementor-widget elementor-widget-icon" data-id="f4b7d5e" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewbox="0 0 51 51"><g id="Group_14742" data-name="Group 14742" transform="translate(-726 -579)"><g id="Rectangle_13" data-name="Rectangle 13" transform="translate(726 579)" fill="none" stroke="#282074" stroke-width="1"><rect width="51" height="51" rx="25.5" stroke="none"></rect><rect x="0.5" y="0.5" width="50" height="50" rx="25" fill="none"></rect></g><path id="cuota" d="M15.3,11.611a3.689,3.689,0,0,0-3.039,1.6L7.107,10.886a3.621,3.621,0,0,0,0-2.761l5.146-2.338A3.689,3.689,0,1,0,11.6,3.694a3.668,3.668,0,0,0,.063.622L6.2,6.8a3.7,3.7,0,1,0-.012,5.4l5.484,2.476a3.749,3.749,0,0,0-.063.621A3.694,3.694,0,1,0,15.3,11.611Zm0-10.027a2.111,2.111,0,1,1-2.11,2.111A2.111,2.111,0,0,1,15.3,1.583ZM3.689,11.611A2.111,2.111,0,1,1,5.8,9.5a2.111,2.111,0,0,1-2.11,2.111Zm11.61,5.8A2.111,2.111,0,1,1,17.41,15.3,2.111,2.111,0,0,1,15.3,17.415Z" transform="translate(742.026 595.001)" fill="#282074"></path></g></svg>			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2b5743b e-con-full e-flex e-con e-child" data-id="2b5743b" data-element_type="container">
+				<div class="elementor-element elementor-element-4383b6d elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="4383b6d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Nuestras casas tienen 2 alcobas, 2 baños, sala, comedor, cocina, zona de labores y parqueadero. Se entregan con semi-acabados.</p>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-93a01d5 e-con-full e-flex e-con e-child" data-id="93a01d5" data-element_type="container" id="datos">
+		<div class="elementor-element elementor-element-3749786 e-con-full e-flex e-con e-child" data-id="3749786" data-element_type="container">
+				<div class="elementor-element elementor-element-32c9cbf elementor-icon-list--layout-inline list-icon-proyectos elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32c9cbf" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">45,8 m2<span>área desde</span></span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">2<span>pisos</span></span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">60<span>Casas VIP</span></span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text"></span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f9bcfbb elementor-widget elementor-widget-html" data-id="f9bcfbb" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Selecciona todas las listas con la clase .elementor-icon-list-items
+        const parentLists = document.querySelectorAll('.elementor-icon-list-items');
+        
+        // Itera sobre todas las listas encontradas
+        parentLists.forEach(parentList => {
+            // Selecciona todos los <li> hijos dentro de cada lista
+            const childItems = parentList.querySelectorAll('li');
+            
+            // Itera sobre los <li> y elimina los que estén vacíos
+            childItems.forEach(child => {
+                if (!child.textContent.trim()) {
+                    child.remove();
+                }
+            });
+        });
+    });
+</script>
+
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4bee533 e-con-full e-flex e-con e-child" data-id="4bee533" data-element_type="container" id="section_tabs_proyecto">
+				<div class="elementor-element elementor-element-9e62bca tabs_proyecto elementor-widget elementor-widget-jet-tabs" data-id="9e62bca" data-element_type="widget" data-settings="{&quot;tabs_position&quot;:&quot;top&quot;,&quot;no_active_tabs&quot;:&quot;false&quot;}" data-widget_type="jet-tabs.default">
+				<div class="elementor-widget-container">
+					
+		<div class="jet-tabs jet-tabs-position-top jet-tabs-move-up-effect " data-settings="{&quot;activeIndex&quot;:0,&quot;event&quot;:&quot;click&quot;,&quot;autoSwitch&quot;:false,&quot;autoSwitchDelay&quot;:3000,&quot;ajaxTemplate&quot;:false,&quot;tabsPosition&quot;:&quot;top&quot;,&quot;switchScrolling&quot;:false,&quot;switchScrollingOffset&quot;:0}">
+			<div class="jet-tabs__control-wrapper " role="tablist">
+                                    <div id="jet-tabs-control-1661" class="jet-tabs__control jet-tabs__control-icon-left elementor-menu-anchor active-tab " data-tab="1" tabindex="0" role="tab" aria-controls="jet-tabs-content-1661" aria-expanded="true" data-template-id="false"><div class="jet-tabs__control-inner"><div class="jet-tabs__label-text">Tipo 1</div></div></div>
+                    			    </div>
+			<div class="jet-tabs__content-wrapper">
+				<div id="jet-tabs-content-1661" class="jet-tabs__content active-content" data-tab="1" role="tabpanel" aria-hidden="false" data-template-id="false">		<div data-elementor-type="container" data-elementor-id="1975" class="elementor elementor-1975" data-elementor-post-type="elementor_library">
+				<div class="elementor-element elementor-element-828eca4 e-flex e-con-boxed e-con e-parent" data-id="828eca4" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-fd0f9e4 e-con-full e-flex e-con e-child" data-id="fd0f9e4" data-element_type="container">
+		<div class="elementor-element elementor-element-50118d2 e-con-full e-flex e-con e-child" data-id="50118d2" data-element_type="container">
+		<div class="elementor-element elementor-element-25f3a6e e-con-full e-flex e-con e-child" data-id="25f3a6e" data-element_type="container">
+				<div class="elementor-element elementor-element-054ce70 elementor-widget elementor-widget-heading" data-id="054ce70" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Casa tipo 1</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-88488e7 e-con-full e-flex e-con e-child" data-id="88488e7" data-element_type="container">
+				<div class="elementor-element elementor-element-7797092 elementor-widget elementor-widget-heading" data-id="7797092" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Área entre </div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-aee973b elementor-widget elementor-widget-heading" data-id="aee973b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">45,8 m² y 53,24 m²</span>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-392590d e-con-full e-flex e-con e-child" data-id="392590d" data-element_type="container">
+				<div class="elementor-element elementor-element-3960de8 elementor-widget elementor-widget-text-editor" data-id="3960de8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Cuando compras en Villas de Salamanca, eres dueño de una hermosa casa de 2 pisos para construir un hogar. Nuestras casas tienen patio, terraza y zona de parqueo, 2 alcobas, 2 baños, sala, comedor y cocina.</p>
+<p>Elegir vivir en nuestra comunidad es contar con canchas deportivas, estadio de béisbol y de fútbol, parques, zonas verdes, iglesia y un moderno megacolegio.</p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8b33528 e-con-full e-flex e-con e-child" data-id="8b33528" data-element_type="container">
+		<div class="elementor-element elementor-element-ebd3b1f e-con-full e-flex e-con e-child" data-id="ebd3b1f" data-element_type="container">
+		<div class="elementor-element elementor-element-067740a e-con-full e-flex e-con e-child" data-id="067740a" data-element_type="container">
+				<div class="elementor-element elementor-element-066049f elementor-widget elementor-widget-heading" data-id="066049f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Valor para este año casas VIP</h4>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-959707d e-con-full e-flex e-con e-child" data-id="959707d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-f114d93 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="f114d93" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">90 SMLV</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-05b2c91 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="05b2c91" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">Equivalente a</span>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f9ec26 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="1f9ec26" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">$117.000.000</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8e76ecb elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="8e76ecb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">Aproximadamente</span>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-00fe911 e-con-full e-flex e-con e-child" data-id="00fe911" data-element_type="container">
+		<div class="elementor-element elementor-element-0b09351 e-con-full e-flex e-con e-child" data-id="0b09351" data-element_type="container">
+				<div class="elementor-element elementor-element-02454f5 elementor-widget elementor-widget-heading" data-id="02454f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Valor para este año casas VIP</h4>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c57e198 e-con-full e-flex e-con e-child" data-id="c57e198" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-48a7830 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="48a7830" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">111 SMLV</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-48b12c6 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="48b12c6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">Equivalente a</span>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6194b21 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="6194b21" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">$145.000.000</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-752502d elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="752502d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">Aproximadamente</span>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-81cb927 e-con-full e-flex e-con e-child" data-id="81cb927" data-element_type="container">
+				<div class="elementor-element elementor-element-86de3a5 e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="86de3a5" data-element_type="widget" data-settings="{&quot;tabs_justify_horizontal&quot;:&quot;start&quot;,&quot;horizontal_scroll&quot;:&quot;disable&quot;}" data-widget_type="nested-tabs.default">
+				<div class="elementor-widget-container">
+							<div class="e-n-tabs" data-widget-number="141419429" aria-label="Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas.">
+			<div class="e-n-tabs-heading" role="tablist">
+					<button id="e-n-tab-title-1414194291" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-1414194291" style="--n-tabs-title-order: 1;">
+						<span class="e-n-tab-title-text">
+				Galería			</span>
+		</button>
+				<button id="e-n-tab-title-1414194292" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1414194292" style="--n-tabs-title-order: 2;">
+						<span class="e-n-tab-title-text">
+				Recorrido 360			</span>
+		</button>
+					</div>
+			<div class="e-n-tabs-content">
+				<div id="e-n-tab-content-1414194291" role="tabpanel" aria-labelledby="e-n-tab-title-1414194291" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-25c1dec e-con-full e-flex e-con e-child" data-id="25c1dec" data-element_type="container">
+		<div class="elementor-element elementor-element-85b74d7 e-flex e-con-boxed e-con e-child" data-id="85b74d7" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-81bdada elementor-pagination-position-inside elementor-widget elementor-widget-image-carousel" data-id="81bdada" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Carrusel de imágenes" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 de 2"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2025/01/COCINA-PART-1.jpg" alt="COCINA PART 1"></figure></div>
+<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 de 2"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2025/01/SALA-COMEDOR-PART-1.1.jpg" alt="SALA-COMEDOR PART 1.1"></figure></div>			</div>
+							
+									<div class="swiper-pagination"></div>
+									</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-1414194292" role="tabpanel" aria-labelledby="e-n-tab-title-1414194292" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-5c5259f e-con-full e-flex e-con e-child" data-id="5c5259f" data-element_type="container">
+		<div class="elementor-element elementor-element-3a0165b e-flex e-con-boxed e-con e-child" data-id="3a0165b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a6b94a8 elementor-widget elementor-widget-image" data-id="a6b94a8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" width="648" height="326" src="/wp-content/uploads/2025/01/Group-14701.jpg" class="attachment-large size-large wp-image-3047" alt="" srcset="/wp-content/uploads/2025/01/Group-14701.jpg 648w, /wp-content/uploads/2025/01/Group-14701-300x151.jpg 300w" sizes="(max-width: 648px) 100vw, 648px">															</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7d57a04 e-con-full e-flex e-con e-child" data-id="7d57a04" data-element_type="container">
+		<div class="elementor-element elementor-element-556dbb1 e-con-full e-flex e-con e-child" data-id="556dbb1" data-element_type="container">
+				<div class="elementor-element elementor-element-1b703e5 elementor-widget elementor-widget-heading" data-id="1b703e5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Características</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4fa2e53 e-con-full e-flex e-con e-child" data-id="4fa2e53" data-element_type="container">
+		<div class="elementor-element elementor-element-e2aa9e6 e-con-full e-grid e-con e-child" data-id="e2aa9e6" data-element_type="container">
+				<div class="elementor-element elementor-element-97ec814 elementor-position-top elementor-widget elementor-widget-image-box" data-id="97ec814" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="39" height="39" src="/wp-content/uploads/2025/01/g69.svg" class="attachment-full size-full wp-image-3069" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">2 Alcobas</h3></div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1c59adc elementor-position-top elementor-widget elementor-widget-image-box" data-id="1c59adc" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="39" height="39" src="/wp-content/uploads/2025/01/g2433.svg" class="attachment-full size-full wp-image-3070" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">2 Baños</h3></div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cd28ab8 elementor-position-top elementor-widget elementor-widget-image-box" data-id="cd28ab8" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="33" height="40" src="/wp-content/uploads/2025/01/lavadora-inteligente-1.svg" class="attachment-full size-full wp-image-3072" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Área de labores</h3></div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-00a489a elementor-position-top elementor-widget elementor-widget-image-box" data-id="00a489a" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="43" height="43" src="/wp-content/uploads/2025/01/cocina.svg" class="attachment-full size-full wp-image-3067" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Cocina</h3></div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-dea60a2 elementor-position-top elementor-widget elementor-widget-image-box" data-id="dea60a2" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="44" height="44" src="/wp-content/uploads/2025/01/g2631.svg" class="attachment-full size-full wp-image-3071" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Estudio</h3></div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-97bb289 elementor-position-top elementor-widget elementor-widget-image-box" data-id="97bb289" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="48" height="32" src="/wp-content/uploads/2025/01/comedor.svg" class="attachment-full size-full wp-image-3068" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Sala comedor</h3></div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-761cee7 elementor-position-top elementor-widget elementor-widget-image-box" data-id="761cee7" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="39" height="39" src="/wp-content/uploads/2025/01/g1657.svg" class="attachment-full size-full wp-image-3074" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Terraza</h3></div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c5dda11 elementor-position-top elementor-widget elementor-widget-image-box" data-id="c5dda11" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="43" height="38" src="/wp-content/uploads/2025/01/aparcamiento-de-coches.svg" class="attachment-full size-full wp-image-3066" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Parqueadero</h3></div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2eef623 elementor-position-top elementor-widget elementor-widget-image-box" data-id="2eef623" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img loading="lazy" width="39" height="39" src="/wp-content/uploads/2025/01/mesa-de-picnic.svg" class="attachment-full size-full wp-image-3073" alt=""></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Patio</h3></div>
+</div>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2b58297 e-con-full e-flex e-con e-child" data-id="2b58297" data-element_type="container">
+				<div class="elementor-element elementor-element-016beaa elementor-widget elementor-widget-image" data-id="016beaa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" width="644" height="298" src="/wp-content/uploads/2025/01/Group-14742.png" class="attachment-large size-large wp-image-3077" alt="" srcset="/wp-content/uploads/2025/01/Group-14742.png 644w, /wp-content/uploads/2025/01/Group-14742-300x139.png 300w" sizes="(max-width: 644px) 100vw, 644px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-64d465e e-con-full e-flex e-con e-child" data-id="64d465e" data-element_type="container">
+				<div class="elementor-element elementor-element-c9043f1 elementor-widget elementor-widget-image" data-id="c9043f1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" width="644" height="304" src="/wp-content/uploads/2025/01/Group-14744.png" class="attachment-large size-large wp-image-3078" alt="" srcset="/wp-content/uploads/2025/01/Group-14744.png 644w, /wp-content/uploads/2025/01/Group-14744-300x142.png 300w" sizes="(max-width: 644px) 100vw, 644px">															</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div>			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e2096ec e-con-full e-flex e-con e-child" data-id="e2096ec" data-element_type="container">
+		<div class="elementor-element elementor-element-ff1843e e-con-full e-flex e-con e-child" data-id="ff1843e" data-element_type="container">
+				<div class="elementor-element elementor-element-8d8a3f2 elementor-widget elementor-widget-heading" data-id="8d8a3f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">¿Cómo llegar?</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-995569d e-con-full e-flex e-con e-child" data-id="995569d" data-element_type="container">
+				<div class="elementor-element elementor-element-592eee9 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="592eee9" data-element_type="widget" id="btn_map" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://www.waze.com/es/live-map/directions/co/atlantico/galapa/villa-olimpica,-galapa?navigate=yes&#038;utm_campaign=default&#038;utm_source=waze_website&#038;utm_medium=lm_share_location&#038;to=place.ChIJiw8y_rXT9Y4RCrHc4D2WHvs" target="_blank">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewbox="0 0 36 36"><defs><pattern id="pattern" preserveaspectratio="none" width="100%" height="100%" viewbox="0 0 512 512"><image width="512" height="512" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAIAAAB7GkOtAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAACAKADAAQAAAABAAACAAAAAAAL+LWFAABAAElEQVR4Ae2dB3wV1RKHc2967wFCQgm99y7SexcEFBCUKiBNBEGk945UEQQBEQVpgvRepffeEyCEJKT35L5BnjFCyr1ny93d8+fHw727Z+bMfHPezu7ZU3SVzhks8AcEQAAEQIA/Anr+XIbHIAACIAACrwkgAaAdgAAIgACnBJAAOA083AYBEAABJAC0ARAAARDglAASAKeBh9sgAAIggASANgACIAACnBJAAuA08HAbBEAABJAA0AZAAARAgFMCSACcBh5ugwAIgAASANoACIAACHBKAAmA08DDbRAAARBAAkAbAAEQAAFOCSABcBp4uA0CIAACSABoAyAAAiDAKQEkAE4DD7dBAARAAAkAbQAEQAAEOCWABMBp4OE2CIAACCABoA2AAAiAAKcEkAA4DTzcBgEQAAEkALQBEAABEOCUABIAp4GH2yAAAiCABIA2AAIgAAKcEkAC4DTwcBsEQAAEkADQBkAABECAUwJIAJwGHm6DAAiAABIA2gAIgAAIcEoACYDTwMNtEAABEEACQBsAARAAAU4JIAFwGni4DQIgAAJIAGgDIAACIMApASQATgMPt0EABEAACQBtAARAAAQ4JYAEwGng4TYIgAAIIAGgDYAACIAApwSQADgNPNwGARAAASQAtAEQAAEQ4JQAEgCngYfbIAACIIAEgDYAAiAAApwSQALgNPBwGwRAAASQANAGQAAEQIBTAkgAnAYeboMACIAAEgDaAAiAAAhwSgAJgNPAw20QAAEQQAJAGwABEAABTgkgAXAaeLgNAiAAAkgAaAMgAAIgwCkBJABOAw+3QQAEQAAJAG0ABEAABDglgATAaeDhNgiAAAggAaANgAAIgACnBJAAOA083AYBEAABJAC0ARAAARDglAASAKeBh9sgAAIggASANgACIAACnBJAAuA08HAbBEAABJAA0AZAAARAgFMCSACcBh5ugwAIgAASANoACIAACHBKAAmA08DDbRAAARBAAkAbAAEQAAFOCSABcBp4uA0CIAACSABoAyAA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
