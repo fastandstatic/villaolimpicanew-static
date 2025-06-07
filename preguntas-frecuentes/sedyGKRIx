@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Contacto &#8211; Villa Olimpica</title>
+	<title>Preguntas frecuentes &#8211; Villa Olimpica</title>
 <meta name="robots" content="max-image-preview:large">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<link rel="alternate" type="application/rss+xml" title="Villa Olimpica &raquo; Feed" href="/feed/">
@@ -47,8 +47,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="jet-tabs-frontend-css" href="/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.7" media="all">
 <link rel="stylesheet" id="font-awesome-5-all-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.27.3" media="all">
 <link rel="stylesheet" id="font-awesome-4-shim-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.27.3" media="all">
-<link rel="stylesheet" id="widget-image-box-css" href="/wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1739393570" media="all">
-<link rel="stylesheet" id="elementor-post-1865-css" href="/wp-content/uploads/elementor/css/post-1865.css?ver=1739394133" media="all">
+<link rel="stylesheet" id="widget-nested-accordion-css" href="/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=3.27.3" media="all">
+<link rel="stylesheet" id="elementor-post-2312-css" href="/wp-content/uploads/elementor/css/post-2312.css?ver=1739394152" media="all">
 <link rel="stylesheet" id="elementor-post-1486-css" href="/wp-content/uploads/elementor/css/post-1486.css?ver=1739393571" media="all">
 <link rel="stylesheet" id="elementor-post-1647-css" href="/wp-content/uploads/elementor/css/post-1647.css?ver=1739393571" media="all">
 <link rel="stylesheet" id="elementor-post-549-css" href="/wp-content/uploads/elementor/css/post-549.css?ver=1739393571" media="all">
@@ -59,13 +59,13 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script src="/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.27.3" id="font-awesome-4-shim-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/1865">
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/2312">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.7.2">
-<link rel="canonical" href="/contacto/">
-<link rel="shortlink" href="/?p=1865">
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fcontacto%2F">
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fcontacto%2F#038;format=xml">
+<link rel="canonical" href="/preguntas-frecuentes/">
+<link rel="shortlink" href="/?p=2312">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fpreguntas-frecuentes%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fpreguntas-frecuentes%2F#038;format=xml">
 <meta name="generator" content="Elementor 3.27.3; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
 <!-- Link Swiper's CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
@@ -153,75 +153,4 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 	}
 	::-webkit-scrollbar-thumb {
 			border-radius: 4px;
-			background-color: rgba(0, 0, 0, 0.5);
-			-webkit-box-shadow: 0 0 1px rgba(255,255,255,0.5);
-	}
-	::-webkit-scrollbar-thumb {
-			border-radius: 4px;
-			background-color: rgba(0, 0, 0, 0.5);
-			-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.5);
-	}
-	
-	input, textarea {
-			touch-action: manipulation;
-	}
-	
-	body .elementor-location-header {
-			position: relative;
-			z-index: 999;
-			width: 100%;
-	}
-
-	@media (max-width: 768px) {
-			input[type="text"],
-			input[type="email"],
-			input[type="tel"],
-			textarea {
-					height: auto;    
-					max-width: 100%; 
-			}
-	}</style>
-			<style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
-				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
-					background-image: none !important;
-				}
-				@media screen and (max-height: 1024px) {
-					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
-					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
-						background-image: none !important;
-					}
-				}
-				@media screen and (max-height: 640px) {
-					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
-					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
-						background-image: none !important;
-					}
-				}</style>
-			<link rel="icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-32x32.png" sizes="32x32">
-<link rel="icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="/wp-content/uploads/2025/02/cropped-Group-14745-2-180x180.png">
-<meta name="msapplication-TileImage" content="/wp-content/uploads/2025/02/cropped-Group-14745-2-270x270.png">
-</head>
-<body class="page-template-default page page-id-1865 wp-embed-responsive theme-default elementor-default elementor-kit-5 elementor-page elementor-page-1865">
-
-
-<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
-
-		<div data-elementor-type="header" data-elementor-id="1486" class="elementor elementor-1486 elementor-location-header" data-elementor-post-type="elementor_library">
-			<div class="elementor-element elementor-element-aceb258 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="aceb258" data-element_type="container" id="head" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-95c9e23 e-con-full e-flex e-con e-child" data-id="95c9e23" data-element_type="container">
-		<div class="elementor-element elementor-element-d791ffd e-con-full e-flex e-con e-child" data-id="d791ffd" data-element_type="container">
-				<div class="elementor-element elementor-element-4074940 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="4074940" data-element_type="widget" id="logo_header" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-																<a href="/">
-							<img width="141" height="46" src="/wp-content/uploads/2025/01/Logo_villa.svg" class="attachment-large size-large wp-image-1497" alt="">								</a>
-															</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-ad09f07 e-con-full e-flex e-con e-child" data-id="ad09f07" data-element_type="container">
-				<div class="elementor-element elementor-element-4f22ad4 elementor-nav-menu--dropdown-none elementor-nav-menu__align-end elementor-widget elementor-widget-nav-menu" data-id="4f22ad4" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
-				<div class="elementor-widget-container">
-								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-text e--animation-none">
-				<ul id="menu-1-4f22ad4" class="elementor-nav-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2255"><a href="/nos
+			background-color: rgba(0, 0, 0, 0.5
